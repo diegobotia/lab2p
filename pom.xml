@@ -71,6 +71,7 @@
 
 
 		</plugins>
+		<finalName>lab2p</finalName>
 	</build>
 
 </project>
